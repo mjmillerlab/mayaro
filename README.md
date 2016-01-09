@@ -1,2 +1,2 @@
-# reading-list
-Group Reading List
+# Mayaro reading-list
+
